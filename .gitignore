@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DependencyInjectionNetCoreSample/.vs/DependencyInjectionNetCoreSample/config
+/DependencyInjectionNetCoreSample/.vs/DependencyInjectionNetCoreSample/v16
+/DependencyInjectionNetCoreSample/DependencyInjectionNetCoreSample/bin/Debug/netcoreapp3.1
+/DependencyInjectionNetCoreSample/DependencyInjectionNetCoreSample/obj/Debug/netcoreapp3.1/staticwebassets
+/DependencyInjectionNetCoreSample/DependencyInjectionNetCoreSample/obj/Debug/netcoreapp3.1
+/DependencyInjectionNetCoreSample/DependencyInjectionNetCoreSample/obj
